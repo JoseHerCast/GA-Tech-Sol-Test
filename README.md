@@ -14,10 +14,10 @@ Además, el proyecto ya incluye un entorno virtual llamado "fastAPI-GA", por lo 
 
 ### Windows
 
-´´´
+'''
 python -m venv fastAPI-GA
 fastAPI-GA\Scripts\activate
-´´´
+'''
 
 ### Linux/Mac
 
@@ -49,8 +49,8 @@ sus necesidades.
 
 ## Enlaces de utilidad
 
-SQLite: https://www.sqlite.org/
-FastAPI: https://fastapi.tiangolo.com/
+- SQLite: https://www.sqlite.org/
+- FastAPI: https://fastapi.tiangolo.com/
 
 
 
