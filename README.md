@@ -14,10 +14,10 @@ Además, el proyecto ya incluye un entorno virtual llamado "fastAPI-GA", por lo 
 
 ### Windows
 
-'''
+´´´
 python -m venv fastAPI-GA
 fastAPI-GA\Scripts\activate
-'''
+´´´
 
 ### Linux/Mac
 
